@@ -1,0 +1,36 @@
+*{
+    margin: 0;padding: 0;box-sizing: border-box;
+}
+body{
+    background:salmon;
+}
+header{
+    background: #000;
+    width: 100%;
+    height:50px;
+    text-align: center;
+}
+main{
+    width: 100%;
+    height: 100vh;
+    display: grid;
+    place-items: center;
+}
+#fm{
+    width: 400px;
+    height: 300px;
+    background:#010101
+}
+input{
+    padding: 10px;
+    width: 200px;
+  
+}
+textarea{
+    width: 80%;
+    height: 200px;
+}
+
+
+
+
